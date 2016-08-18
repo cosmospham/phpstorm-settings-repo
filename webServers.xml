@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5c439bc3-cdf0-4bd6-b9a3-fcce76774918" name="osTicket" url="http://localhost:11180">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
