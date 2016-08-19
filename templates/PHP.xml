@@ -8,6 +8,7 @@
   <template name="if" value="&lt;?php if($END$): ?&gt;&#10;&#10;&lt;?php endif; ?&gt;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
   <template name="foreach" value="&lt;?php foreach($END$): ?&gt;&#10;&#10;&lt;?php endforeach; ?&gt;" toReformat="false" toShortenFQNames="true">
