@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".fuse_hidden0000002f00000003" type="PLAIN_TEXT" />
+      <mapping pattern=".fuse_hidden0000002f00000001" type="PLAIN_TEXT" />
+      <mapping pattern=".fuse_hidden0000003100000002" type="PLAIN_TEXT" />
+      <mapping pattern=".fuse_hidden0000003100000004" type="PLAIN_TEXT" />
+      <mapping pattern=".fuse_hidden0000002f00000016" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
