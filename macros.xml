@@ -1,0 +1,7 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="array alignment">
+      <action id="StringManipulation.AlignToColumns" />
+    </macro>
+  </component>
+</application>
